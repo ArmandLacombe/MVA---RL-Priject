@@ -1,5 +1,5 @@
 # MVA-RL-Project
-## GitHub page of the MVA Reinforcement Learning course of Alessandro Lazaric and Matteo Pirotta
+### MVA Reinforcement Learning course of Alessandro Lazaric and Matteo Pirotta
 By Aurélien Brouillaud and Armand Lacombe.
 
 ## Content
